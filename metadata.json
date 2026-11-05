@@ -1,0 +1,6 @@
+{
+  "name": "Sahil News",
+  "description": "Modern mobile-first news application with India, World, Tech, Sports, Business, Entertainment, and Education categories, NewsAPI integration, search, bookmarks, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
